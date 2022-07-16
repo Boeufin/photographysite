@@ -1,0 +1,30 @@
+body{
+	display: block;
+}
+
+.banner-btn{
+	background-color: #AAAAAA;
+	color: #444444;
+	height: 60px;
+	width: 120px;
+	font-size: 20px;
+	margin-top: 10px;
+	margin-left: 20px;
+	border: none;
+	transition: 0.3s;
+}
+
+.banner-btn:hover{
+	background-color: #555555;
+	color: #000000;
+}
+
+#banner{
+	background-color: #AAAAAA;
+	height: 80px;
+	position: sticky;
+}
+
+#gallery{
+	display: none;
+}
